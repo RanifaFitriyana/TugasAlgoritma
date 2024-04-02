@@ -1,4 +1,4 @@
-# Mencari Nama Prodi
+# Program Pencari Nama Prodi
 
 STUDI KASUS
 - Mencari nama prodi dari setiap mahasiswa dengan menggunakan kode prodi yang terdapat pada NIM.
