@@ -12,7 +12,6 @@ def tentukan_prodi(nim):
         '13' : 'prodi Keprawatan'
     }
 
-
     kode_prodi = nim[2:4]
     if kode_prodi in prodi:
         return prodi[kode_prodi]
